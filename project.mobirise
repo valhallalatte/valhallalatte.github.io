@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Liberty Ala Moana Japanese",
-    "currentPage": "costE.html",
+    "currentPage": "contactE.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7563,7 +7563,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
@@ -9013,7 +9015,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -9585,7 +9589,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
@@ -10109,7 +10115,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
@@ -11153,7 +11161,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
